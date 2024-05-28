@@ -1,7 +1,3 @@
- 
-# Ignore the .git directory
-.git/
-
 # Ignore the .vs directory (Visual Studio files)
 .vs/
 
