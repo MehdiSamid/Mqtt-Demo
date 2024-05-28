@@ -9,3 +9,14 @@ C:\Users\intel\source\repos\Mqtt-Demo\obj\Debug\Mqtt-Demo.csproj.CoreCompileInpu
 C:\Users\intel\source\repos\Mqtt-Demo\obj\Debug\Mqtt-Demo.csproj.CopyComplete
 C:\Users\intel\source\repos\Mqtt-Demo\obj\Debug\Mqtt-Demo.exe
 C:\Users\intel\source\repos\Mqtt-Demo\obj\Debug\Mqtt-Demo.pdb
+C:\Users\intel\Documents\Mqtt-Demo\bin\Debug\Mqtt-Demo.exe.config
+C:\Users\intel\Documents\Mqtt-Demo\bin\Debug\Mqtt-Demo.exe
+C:\Users\intel\Documents\Mqtt-Demo\bin\Debug\Mqtt-Demo.pdb
+C:\Users\intel\Documents\Mqtt-Demo\bin\Debug\MQTTnet.dll
+C:\Users\intel\Documents\Mqtt-Demo\bin\Debug\MQTTnet.xml
+C:\Users\intel\Documents\Mqtt-Demo\obj\Debug\Mqtt-Demo.csproj.AssemblyReference.cache
+C:\Users\intel\Documents\Mqtt-Demo\obj\Debug\Mqtt-Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\intel\Documents\Mqtt-Demo\obj\Debug\Mqtt-Demo.csproj.CoreCompileInputs.cache
+C:\Users\intel\Documents\Mqtt-Demo\obj\Debug\Mqtt-Demo.csproj.CopyComplete
+C:\Users\intel\Documents\Mqtt-Demo\obj\Debug\Mqtt-Demo.exe
+C:\Users\intel\Documents\Mqtt-Demo\obj\Debug\Mqtt-Demo.pdb

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mqtt-Demo", "Mqtt-Demo.csproj", "{75506753-9126-4E9B-B197-4C572EC1BFE3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewDemo", "..\NewDemo\NewDemo.csproj", "{724262E5-C7C7-413F-BBEA-950637AD2D57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{75506753-9126-4E9B-B197-4C572EC1BFE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75506753-9126-4E9B-B197-4C572EC1BFE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75506753-9126-4E9B-B197-4C572EC1BFE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{724262E5-C7C7-413F-BBEA-950637AD2D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724262E5-C7C7-413F-BBEA-950637AD2D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724262E5-C7C7-413F-BBEA-950637AD2D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724262E5-C7C7-413F-BBEA-950637AD2D57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
